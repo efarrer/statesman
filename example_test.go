@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"statesman"
+
+	"github.com/efarrer/statesman"
 )
 
 const (
